@@ -39,7 +39,7 @@ function setBgGreet() {
   let today = new Date(),
     hour = today.getHours();
 
-  if (hour < 3) {
+  if (hour < 3 && hour > 22) {
     // Night
     document.body.style.backgroundImage = "url('../images/night.jpg')";
     greetingRef.textContent = "Good Night, ";
@@ -52,15 +52,10 @@ function setBgGreet() {
     // Afternoon
     document.body.style.backgroundImage = "url('../images/afternoon.jpg')";
     greetingRef.textContent = "Good Afternoon, ";
-  } else if (hour < 22) {
+  } else {
     // Evening
     document.body.style.backgroundImage = "url('../images/evening.jpg')";
     greetingRef.textContent = "Good Evening, ";
-  } else {
-    // Night
-    document.body.style.backgroundImage = "url('../images/night.jpg')";
-    greetingRef.textContent = "Good Night, ";
-    document.body.style.color = "white";
   }
 }
 

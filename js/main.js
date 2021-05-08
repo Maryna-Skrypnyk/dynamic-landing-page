@@ -1,7 +1,7 @@
-const timeRef = document.getElementById("time"),
-  greetingRef = document.getElementById("greeting"),
-  nameRef = document.getElementById("name"),
-  focusRef = document.getElementById("focus");
+const timeRef = document.getElementById("time");
+const greetingRef = document.getElementById("greeting");
+const nameRef = document.getElementById("name");
+const focusRef = document.getElementById("focus");
 
 // Options
 const showAmPm = true;

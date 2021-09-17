@@ -6,4 +6,4 @@ In this project, I built landing page with the time and it's gonna change the gr
 
 ⬇ [_Welcome!_](https://maryna-skrypnyk.github.io/dynamic-landing-page/) ⬇
 
-<a href="https://maryna-skrypnyk.github.io/dynamic-landing-page/"><img src="http://dl4.joxi.net/drive/2021/09/17/0027/0882/1782642/42/c8fc613763.jpg" alt="Daily Focus" border="0"></a>
+<a href="https://maryna-skrypnyk.github.io/dynamic-landing-page/"><img src="https://raw.githubusercontent.com/Maryna-Skrypnyk/dynamic-landing-page/main/images/promo.gif" alt="Daily Focus" border="0"></a>
